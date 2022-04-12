@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tball1
 - 👀 I’m interested in almost anything tech/programming related
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning everything Linux
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 Add me on Discord! (removed)
 
